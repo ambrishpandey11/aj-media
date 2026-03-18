@@ -1,0 +1,5 @@
+step,action
+zero_impressions,Set Clicks=0 for 47 rows with Impressions==0 (Preserved Revenue/Purchases)
+impute_revenue,Filled 20 missing Revenue with 0 (no sale)
+winsorise,Winsorised 48 outliers in CPM [1st/99th percentile]
+derived_metrics,"Added CTR, CPC, CVR, ROAS columns"

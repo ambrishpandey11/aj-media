@@ -1,0 +1,5 @@
+Campaign,Platform,Actual_ROAS,Predicted_ROAS,Total_Spend,Total_Revenue,Budget_Recommendation
+Tt_Athletes_Video_Protein_001,Tt,1.3052770279699044,1.2989339,566911.46,578569.96,Maintain
+Fb_Athletes_Video_Protein_001,Fb,1.0541590774727418,1.0566667,337608.46,346957.25,Reduce/Pause
+Tt_Weightloss_Video_Diet_001,Tt,0.968584971055587,0.96758723,606499.75,598498.96,Reduce/Pause
+Tt_Fitnessenth_Video_Preworkout_001,Tt,0.5716386164731805,0.57153296,414991.65,240903.68,Reduce/Pause

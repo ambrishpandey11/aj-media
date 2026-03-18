@@ -1,0 +1,2 @@
+model,cv_mae,train_r2,n_features,n_samples,pct_above_target_12
+XGBoost,0.05979540851948588,0.9974502141220379,23,1205,0.2879668049792531
